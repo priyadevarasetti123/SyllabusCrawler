@@ -1,0 +1,2012 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Syllabi>
+	<Syllabus>
+		<syllabus_ID>EENG 2610</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Circuit Analysis</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Introduction to electrical elements, sources and interconnects. Ohms law, Kirchoffs law, superposition and Thevenins theorems are introduced. The resistive circuit, OP Amp, RL, RC circuits, Sinusoidal analysis.</Course_Description>
+		<Instructor_Name>Oluwayomi Adamo</Instructor_Name>
+		<Instructor_Email>Oluwayomi.adamo@unt.edu</Instructor_Email>
+		<Course_Requirements>MATH 1720, PHYS 2220/2240</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 2620</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Signals and Systems</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Elementary concepts of continous-time and discrete-time signals and systems. Linear time-invariant (LTI) systems, impulse response, convolution, Fourier series, Fourier transforms, and frequency-domain analysis of LTI systems, Laplace transforms, z-transforms, and rational function descriptions of LTI systems.</Course_Description>
+		<Instructor_Name>Akl, Robert</Instructor_Name>
+		<Instructor_Email>Robert.Akl@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 2610 and (MATH 2730 or MATH 3310)</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 2910</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Project III: Digital System Design</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Digital system design projects that provide students substantial experience in logic analysis, design, logic synthesis in VHDL, and testing. Project documentation including all the phases of project cycle from requirement analysis to testing as well as a project presentation providing the students an opportunity to enhance their communication and presentation skills, are essential components of this course</Course_Description>
+		<Instructor_Name>Oluwayomi Adamo</Instructor_Name>
+		<Instructor_Email>Oluwayomi.adamo@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 2710</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 2920</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Project IV: Analog Circuit Design</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Students learn to use basic electrical engineering lab equipment, to build and test simple circuits in the lab and to design and analyze circuits using CAD software tools. Includes simulation and design experiments and a final comprehensive design project to complement the circuit analysis course.</Course_Description>
+		<Instructor_Name>Miguel Acevedo</Instructor_Name>
+		<Instructor_Email>Miguel.Acevedo@unt.edu</Instructor_Email>
+		<Course_Requirements> EENG 1920, EENG 2610</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 3510</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Electronics I (Devices and Materials) </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Introduction to contemporary electronic devices, terminal characteristics of active semiconductor devices, and models of the BJT and MOSFET in cutoff saturation region are introduced. Incremental and DC models of junction diodes, bipolar transistors (BJTs), and metal-oxide semiconductor field effect transistors (MOSFETs) are studied to design single and multistage amplifiers</Course_Description>
+		<Instructor_Name>Kim, Hyoung Soo</Instructor_Name>
+		<Instructor_Email>HyoungSoo.Kim@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 2910</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 3710</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Computer Organization</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Principles of computer system organization, instruction sets, computer arithmetic, data and control paths, memory hierarchies</Course_Description>
+		<Instructor_Name>Guturu, Parthasarathy</Instructor_Name>
+		<Instructor_Email>Parthasarathy.Guturu@unt.edu</Instructor_Email>
+		<Course_Requirements>CSCE 1020 and EENG 2710</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 3520</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Electronics II</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Concepts, analysis and design of electronic circuits and systems will be introduced in this course. The topics include principle of DC biasing, small signal analysis, frequency response, feedback amplifiers, active filters, non-linera op-amp applications, and oscillators.</Course_Description>
+		<Instructor_Name>Fu, Shengli</Instructor_Name>
+		<Instructor_Email>Shengli.Fu@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 3510</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 3410</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Engineering Electromagnetics</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description> Electromagnetic theory as applied to electircal engineering: vector calculus; electrostatics and magnetostatics; Maxwells equations, including Poyntings theorem and boundary conditions; uniform plane-wave propagation; transmission lines - TEM modes, including treatment of general, lossless line, and pulse prpagation; introduction to guided waves; introduction to radiation and scattering concepts. </Course_Description>
+		<Instructor_Name>Hualiang Zhang</Instructor_Name>
+		<Instructor_Email>Hualiang.Zhang@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 2610 and MATH 3310</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 3810</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Communications Systems</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Introduction to the concepts of transmission of information via communication channels. Amplitude and angle modulation for the transmission of continuous-time signals. Analog-to-digital conversion and pulse code modulation. Transmission of digital data. Introduction to random signals and noise and their effects on communication. Optimum detection systems in the presence of noise.</Course_Description>
+		<Instructor_Name>Oluwayomi Adamo</Instructor_Name>
+		<Instructor_Email>Oluwayomi.adamo@unt.edu</Instructor_Email>
+		<Course_Requirements> EENG 2620, EENG 3510. MATH 1780 or MATH 3680</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 3910</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Project V : DSP System Design</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>To study basic theory and applications of modern digital signal processing, to learn basic theory of real-time digital signal processing, and to develop ability to implement and simulate digital signal processing algorithms using MATLAB and on real-time DSP platform</Course_Description>
+		<Instructor_Name>Oluwayomi Adamo</Instructor_Name>
+		<Instructor_Email>Oluwayomi.adamo@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 2620, EENG 2910 and EENG 2920</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 3920</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Project VI: Modern Communication System Design</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>EENG 3920 is the project design course for electronics courses. Students are required to design electronic communication systems with electronic devices such as MOS transistors, capacitors and resistors. The design and simulation tool is the NI ELVIS platform. Topics include LC circuits and oscillators, AM modulation, SSB communications and FM modulation.</Course_Description>
+		<Instructor_Name>Dr. Walter H. Delashmit</Instructor_Name>
+		<Instructor_Email>delashmit@egw.unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 3520 Electronics II</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 4910</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Senior Design</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>The senior design project course is a comprehensive electrical engineering design course providing major design experience. Students form teams of two to three members and work under the supervision of a faculty advisor. Identifying, formulating and solving an electrical engineering design problem of practical value under realistic design and implementation constraints by conforming to the engineering standards wherever appropriate. Development of an awareness of contemporary issues and professional ethics. Each project team is required to submit a proposal, present and submit a mid-term progress report, and present and submit a final report according to a prescribed project schedule.</Course_Description>
+		<Instructor_Name>Dr. Murali Varanasi</Instructor_Name>
+		<Instructor_Email>Murali.Varanasi@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 3810, 3910 and 3920</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 4990</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Project VIII - Senior Design II</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Project VIII - Senior Design II. 3 hours (3;3). The capstone senior design course is a comprehensive electrical engineering design course. Students may choose a design topic in VLSI, communications, Signal Processing or any other relevant electrical engineering area. Substantial design work is required for passing this course</Course_Description>
+		<Instructor_Name>Dr. Murali Varanasi</Instructor_Name>
+		<Instructor_Email>Murali.Varanasi@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 4910</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5310</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Control Systems Design</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Transform domain and state space representations of linear feedback systems, system stability, nonlinear systems, optimal control, bounded and time optimal control of linear systems</Course_Description>
+		<Instructor_Name>Guturu, Parthasarathy</Instructor_Name>
+		<Instructor_Email>Parthasarathy.Guturu@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 2620 or equivalent</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5320</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Systems Modeling and Simulation</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Aimed to systematically introduce the concepts and analytical tools required to abstract engineering problems from applications, and to simulate and analyze such problems. Topics include dynamical systems modeling, stochastic models, queueing models, Markov chains, model identification, Monte-Carlo simulation, model reduction, agent-based modeling, large-scale networks, and applications to ecological, biological, and modern infrastructure systems</Course_Description>
+		<Instructor_Name>Yan Wan</Instructor_Name>
+		<Instructor_Email>Yan.Wan@unt.edu</Instructor_Email>
+		<Course_Requirements>consent of department</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5410</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Microwave Engineering</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Investigates the fundamental concepts and techniques in the area of RF / microwave circuit designs. Topics include RF / microwave transmission lines, RF matching networks, microwave resonators, microwave coupler and power dividers, microwave filters, and fabrication of RF / microwave circuits.</Course_Description>
+		<Instructor_Name>Hualiang Zhang</Instructor_Name>
+		<Instructor_Email>Hualiang.Zhang@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 3410 or equivalent</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5420</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Antenna Theory and Design</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Provide students with the fundamental theory in antenna designs and give students hand-on skills related to antenna designs and characterizations. Topics include linear dipole antennas, loop antennas, patch antennas, RFID antennas, broadband and frequency-independent antennas, and antenna arrays.</Course_Description>
+		<Instructor_Name>Hualiang Zhang</Instructor_Name>
+		<Instructor_Email>Hualiang.Zhang@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 3410 or equivalent</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5520</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Design and Testing of Digital Systems</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Review of combinational logic, testing combinational circuits, sequential circuit synthesis, state minimization, state assignment, and structure of sequential circuits; state identification and fault detection experiments; testing of sequential circuits, and design for testability.</Course_Description>
+		<Instructor_Name>Dr. Murali Varanasi</Instructor_Name>
+		<Instructor_Email>Murali.Varanasi@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 2710 or equivalent</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5530</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Analog Integrated Circuit Design</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>This course thoroughly investigates the fundamentals in design and analysis of analog and mixed-signal integrated circuits. Topics include analog MOS transistor models, current sources and sinks, circuit reference, amplifier, feedback amplifiers, differential amplifiers and operational amplifiers.</Course_Description>
+		<Instructor_Name>Hualiang Zhang</Instructor_Name>
+		<Instructor_Email>Hualiang.Zhang@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 3520 or equivalent</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5540</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Digital Integrated Circuit Design</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Focuses on the design of digital systems with an emphasis on hands-on chip design. Students use industry CAD tools to design, layout and simulate the VLSI circuits. Topics include MOS transistor, circuit characterization, circuit simulation, combinational and sequential circuits, static and dynamic logic circuits, memories, and low power circuit design</Course_Description>
+		<Instructor_Name>Gayatri Mehta</Instructor_Name>
+		<Instructor_Email>Gayatri.Mehta@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 2710 and EENG 3510, or consent of department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5550</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Hardware Design Methodologies for ASICs and FPGAs</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Explores hardware design methodologies through the use of industry tools. Students use design automation tools to design, simulate, and synthesize designs for standard cell-based ASICs and FPGAs using hardware description languages (e.g. VHDL and Verilog). Students study the synthesis concept to understand how hardware functions written in these hardware description languages are synthesized. Techniques for design optimization, simulation, and synthesis of combinatorial functions, data paths, and finite state machines are covered in depth. Students examine the differences between design flows for standard cell-based ASICs and FPGAs</Course_Description>
+		<Instructor_Name>Gayatri Mehta</Instructor_Name>
+		<Instructor_Email>Gayatri.Mehta@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 2710 or equivalent</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5610</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Digital Signal Processing</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Introduction to modern digital signal processing theory and techniques. Includes discrete time signals and systems, sampling theorem, Z-transform, frequency analysis of signals and systems, discrete Fourier transform, fast Fourier transform algorithms, and digital filter design. </Course_Description>
+		<Instructor_Name>Xinrong Li</Instructor_Name>
+		<Instructor_Email>Xinrong.Li@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 2620 or equivalent.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5620</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Statistical Signal Processing </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Introduction to detection and estimation theories. Vector space, multivariate normal distribution, quadratic forms, sufficiency and minimum variance unbiased estimator, hypothesis testing, Neyman-Pearson theory, Bayesian detection theory, maximum-likelihood estimation, Cramer-Rao bound, Bayesian and minimum mean-squared error estimators, Kalman filter, least-squares estimation, singular value decomposition algorithm</Course_Description>
+		<Instructor_Name>Xinrong Li</Instructor_Name>
+		<Instructor_Email>Xinrong.Li@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 4610 and MATH 6810 or equivalent.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5640</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Computer Vision and Image Analysis</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Introduction to computer vision and image processing, image geometry and photogammetry, edge detection, feature extraction, shape representation, structural descriptions, object modeling, shape matching, semantic knowledge bases and imaging architectures, depth perception with stereo and photometric stereo, moving scene analysis and object tracking, multi-sensor data fusion, occluded object recognition by multi-sensor/multi-view integration, Computer vision applications.</Course_Description>
+		<Instructor_Name>Guturu, Parthasarathy</Instructor_Name>
+		<Instructor_Email>Parthasarathy.Guturu@unt.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5650</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Speech Analysis, Synthesis and Recognition</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Introduces the production of human speech, vocal tract, the hearing system, the units of speech, methods of analysis for speech signals, speech recognition technology, and computerized speech synthesis. </Course_Description>
+		<Instructor_Name>Oscar Garcia</Instructor_Name>
+		<Instructor_Email>Oscar.Garcia@unt.edu</Instructor_Email>
+		<Course_Requirements>MATH 1710, MATH 1720, MATH 2700 or equivalent; or consent of instructor</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5810</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Digital Communications</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Introduction to the analysis and design of digital communication systems. Includes decision theory, signal space, optimal receivers, modulation schemes, error performance, inter-symbol interference, fading channels, spread spectrum, and link budget analysis. </Course_Description>
+		<Instructor_Name>Fu, Shengli</Instructor_Name>
+		<Instructor_Email>Shengli.Fu@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 3810 or equivalent. </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5820</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Wireless Communications</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Fundamentals of wireless communications. Topics covered include radio propagation channel characteristics and models, modulation, coding and receiver signal processing techniques in fading channels, multiple access techniques for wireless systems, fundamentals of wireless networks, and major cellular and wireless LAN standards</Course_Description>
+		<Instructor_Name>Fu, Shengli</Instructor_Name>
+		<Instructor_Email>Shengli.Fu@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 5810 or equivalent.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5830</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Coding Theory</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Channel coding theorem, Error-correcting codes, algebraic block codes, linear codes, BCH codes, Convolutional codes, burst-error correcting codes, arithmetic codes, and design of encoders and decoders</Course_Description>
+		<Instructor_Name>Dr. Murali Varanasi</Instructor_Name>
+		<Instructor_Email>Murali.Varanasi@unt.edu</Instructor_Email>
+		<Course_Requirements>EENG 3810 or equivalent</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5890</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Directed Study</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Study of topics in Electrical Engineering. The student should prepare a plan for study of a topic and a plan for evaluation of study achievements</Course_Description>
+		<Instructor_Name>Guturu, Parthasarathy</Instructor_Name>
+		<Instructor_Email>Parthasarathy.Guturu@unt.edu</Instructor_Email>
+		<Course_Requirements>Prior approval by the department required. Open to students with graduate standing who are capable of developing problems independently. May be repeated for credit.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5900</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Special Problems</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description> Independent study and research of a specific problem in a field of Electrical Engineering. A report is required defining the problem and a solution. Requires department approval.</Course_Description>
+		<Instructor_Name>Guturu, Parthasarathy</Instructor_Name>
+		<Instructor_Email>Parthasarathy.Guturu@unt.edu</Instructor_Email>
+		<Course_Requirements>approval of the department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5932</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Internship </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Supervised work in a job that meets specific educational objectives of the department and is beneficial to the students career development. Required submission of a final report summarizing industrial experience gained through the internship</Course_Description>
+		<Instructor_Name>Fu, Shengli</Instructor_Name>
+		<Instructor_Email>Shengli.Fu@unt.edu</Instructor_Email>
+		<Course_Requirements>Consent of department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5940</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Advanced Topics in Electrical Engineering </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Contemporary topics at the advanced graduate elective level. Faculty present advanced elective topics not included in the established curriculum. May be repeated for credit as topics vary.</Course_Description>
+		<Instructor_Name>Miguel Acevedo</Instructor_Name>
+		<Instructor_Email>Miguel.Acevedo@unt.edu</Instructor_Email>
+		<Course_Requirements>consent of instructor.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EENG 5950</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Masters Thesis</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>To be scheduled with consent of department. No credit assigned until thesis has been completed and filed with the School of Graduate Studies.</Course_Description>
+		<Instructor_Name>Miguel Acevedo</Instructor_Name>
+		<Instructor_Email>Miguel.Acevedo@unt.edu</Instructor_Email>
+		<Course_Requirements>Department approval.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>CSCE 5050</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Application of Cryptography</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Introduces students to concepts of cryptography and its applications. Cryptography is the fundamental building block of any computer security solution. The knowledge gained from this course will enable students to apply these cryptographic algorithms in a better way to design security solutions.</Course_Description>
+		<Instructor_Name>Prakash Kolan</Instructor_Name>
+		<Instructor_Email>prakash.kolan@unt.edu</Instructor_Email>
+		<Course_Requirements>Department approval.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>CSCE 5150</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Analysis of Computer Algorithms</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Study of efficient algorithms for various computational problems. Topics include advanced techniques of algorithm design: divide-and-conquer, the greedy method, dynamic programming, search and traversal, back-tracking and branch-and-bound. Other topics include NP-Completeness theory, including approximation algorithms and lower bound theory, and probabilistic algorithms. </Course_Description>
+		<Instructor_Name>Paul Tarau</Instructor_Name>
+		<Instructor_Email> t a r a u@cse.unt.edu</Instructor_Email>
+		<Course_Requirements>Department approval.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Philosophy 2660</syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name> 
+  Metaphysics, 
+  Religion, 
+  and 
+  Magic 
+  in 
+  the 
+  Scientific 
+  Revolution</Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Applied Linguistics</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>The 
+  seventeenth 
+  century 
+  saw 
+  revolutionary 
+  developments 
+  in 
+  natural 
+  science, 
+  specifically, 
+  in 
+  matter 
+  theory, 
+   mechanics, 
+  chemistry, 
+  and 
+  astronomy. 
+   
+  These 
+  developments 
+  were 
+  intertwined 
+  with 
+  magical 
+  traditions, 
+  religious 
+   doctrines 
+  and 
+  disputes, 
+  and, 
+  especially, 
+  philosophical 
+  theories 
+  and 
+  arguments. 
+   
+  This 
+  course 
+  will 
+  examine 
+  some 
+  of 
+   these 
+  connections 
+  in 
+  the 
+  works 
+  of 
+  some 
+  of 
+  the 
+  most 
+  influential 
+  natural 
+  philosophers 
+  of 
+  the 
+  period. 
+   
+  Our 
+  main 
+  goal 
+   is 
+  a 
+  richer 
+  understanding 
+  of 
+  this 
+  crucial 
+  period 
+  in 
+  the 
+  development 
+  of 
+  modern 
+  science. 
+   
+  In 
+  addition, 
+  as 
+  with 
+  any 
+   philosophy 
+  class, 
+  we 
+  will 
+  evaluate 
+  the 
+  cogency 
+  of 
+  the 
+  arguments 
+  and 
+  the 
+  consistency 
+  and 
+  plausibility 
+  of 
+  the 
+  views 
+   we 
+  encounter.</Course_Description>
+		<Instructor_Name>  
+  Downing</Instructor_Name>
+		<Instructor_Email>downing.110@osu.edu </Instructor_Email>
+		<Course_Requirements>Department approval</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Biology 1113  </syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>Energy Transformation &amp; Development</Course_Name>
+		<Field>Sciences</Field>
+		<Department>Biology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description> Biology 1113 is intended for students majoring in the natural sciences and is the first course in a two-semester sequence.  In this course, you will investigate with the chemistry of life, cellular studies, energy transfer and genetics.  Evolution will be the unifying theme and will be stressed throughout. </Course_Description>
+		<Instructor_Name> Sherwood Forest</Instructor_Name>
+		<Instructor_Email>forest.123@osu</Instructor_Email>
+		<Course_Requirements> Math 1148 or Permission of Instructor </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BUSINESS FINANCE 3500 </syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name> LEGAL ENVIRONMENT OF BUSINESS </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Business studies</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description> An introduction to American legal institutions and sources of law and an analysis of basic concepts of public and private law related to business decisions. 1.5 credit hrs</Course_Description>
+		<Instructor_Name>Joseph R. Irvine </Instructor_Name>
+		<Instructor_Email>Irvine.17@osu.edu </Instructor_Email>
+		<Course_Requirements>Department aprroval</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>HCS 7625</syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>Plant Breeding and Biotechnology </Course_Name>
+		<Field>Sciences</Field>
+		<Department>Biology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>This course will serve as a general introduction to the principles of plant breeding and biotechnology. Breeding and biotechnology are central to anyone who works with plants as most cultivated plants have been impacted using breeding and biotechnological approaches. We will examine concepts relevant to students in plant breeding, genetics, biotechnology, crop sciences, and allied fields of plant pathology and entomology. The course content will present a broad range of applicable information pertaining to modification and improvement of a wide range of crops, including both agronomic and horticultural crop species important in temperate and tropical areas. </Course_Description>
+		<Instructor_Name>John Finer </Instructor_Name>
+		<Instructor_Email>finer.1@osu.edu </Instructor_Email>
+		<Course_Requirements> Undergraduate breeding or genetics course, or consent of instructor</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>HCS 3320 </syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>Plant Propagation: Manipulation of Plant Reproduction </Course_Name>
+		<Field>Sciences</Field>
+		<Department>Biology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description> Techniques, equipment, and facilities involved in the sexual and asexual multiplication of plants</Course_Description>
+		<Instructor_Name> Peg McMahon </Instructor_Name>
+		<Instructor_Email>mcmahon.43@osu.edu </Instructor_Email>
+		<Course_Requirements> HCS 2201 or 2202 </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>HCS 7003.02 </syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>Agricultural Genomics: Principles and Applications </Course_Name>
+		<Field>Sciences</Field>
+		<Department>Biology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Biology has entered the era of genomics as large amounts of DNA sequence and gene expression data rapidly accumulate in public databases. The successful completion of genome sequences of many important plants, animals, and their pathogens and the dramatic reduction of sequencing costs have opened the opportunity for more genomes of agriculturally important organisms to be unraveled in the near future. How to use and apply genomics and bioinformatics tools in agriculture will be a major challenge for all geneticists, biotechnologists, and microbiologists. In HCS 7003.02, we continue with the genomics techniques principles covered in PP 7003.01, with emphasis on proteomics, epigenomics, and the principles behind the bioinformatics methods used to analyze agricultural genomics data.</Course_Description>
+		<Instructor_Name> Eric Stockinger</Instructor_Name>
+		<Instructor_Email>stockinger.1@osu.edu</Instructor_Email>
+		<Course_Requirements>MOLGEN 4500 </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>PHARMCL 5800</syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name> Stem Cell Biology and Applications for Human Regenerative Medicine </Course_Name>
+		<Field>Sciences</Field>
+		<Department>Biology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>PHARMCL 5800 is a one semester interdisciplinary course at the interface of two cutting edge fields: stem cells and regenerative medicine and bioengineering.  It is suitable for pre-meds, material science or bioengineers, neuroscience, biochemistry and biology majors. </Course_Description>
+		<Instructor_Name> Rene Anand </Instructor_Name>
+		<Instructor_Email>anand.2@osu.edu</Instructor_Email>
+		<Course_Requirements>permission of instructor </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>RURAL SOCIOLOGY 5500 </syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>SOCIAL CHANGE AND DIFFUSION OF INNOVATION</Course_Name>
+		<Field>Social Sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Why do some social groups adopt innovations such as new technologies, ideas, and behaviors more rapidly than others?  What are the impacts of innovations for different social groups in the U.S. as well as globally? This course addresses these questions by studying innovation-diffusion as form of social change. </Course_Description>
+		<Instructor_Name> Linda Lobao </Instructor_Name>
+		<Instructor_Email>lobao.1@osu.edu </Instructor_Email>
+		<Course_Requirements>permission of instructor</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>RURAL SOCIOLOGY 1500 </syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>INTRODUCTION TO RURAL SOCIOLOGY </Course_Name>
+		<Field>Social Sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Introduction to RS 1500 &amp; Theme of the Course//Defining Social//Definitions of Sociology and Rural Sociology//Six Core Sociological Concepts//Defining Rural &amp; Urban//The Triangle and the Hourglass//The 7 Big Changes (top of the hourglass)//Three Sociological Theories//Ways to Study Societies and Peoples//Culture and Elements of Culture//Examples of 4 Different Cultures//Socialization</Course_Description>
+		<Instructor_Name>Joseph F. Donnermeyer</Instructor_Name>
+		<Instructor_Email>donnermeyer.1@gmail.com </Instructor_Email>
+		<Course_Requirements>permission of instructor</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Rural Sociology 4500</syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name> Leadership and Community Development </Course_Name>
+		<Field>Social Sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>“Community development as a process” is a running theme throughout this course. The process of community development is often best learned through practice and experience. One way to gain access to this knowledge is through volunteerism. You will be researching at least one CBO in your hometown or community of choice this semester or in the Mid-Ohio area. During your research you will be identifying needs of this CBO and potential opportunities for service</Course_Description>
+		<Instructor_Name>Joe Campbell</Instructor_Name>
+		<Instructor_Email>campbell.844@osu.edu  </Instructor_Email>
+		<Course_Requirements>permission of instructor</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>RS 5530</syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>SOCIOLOGY OF AGRICULTURE AND FOOD  SYSTEMS</Course_Name>
+		<Field>Social Sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>A review of theory and research associated with the sociology of agriculture and food systems from the 1970s to the  present.  The course focuses on theory and research that seeks to understand the evolution of the agricultural system;  the  impacts  of  agricultural  change;  the  emergence  of  alternative  agricultural  and  food  systems;  and  the  role  of  communities in supporting agricultural and food system development and consumers in transforming the agro‐food  system.  A special focus of the 2014 class will be on emerging disharmonies of the neoliberal food regime and “solutions”  proposed by various food system actors.  </Course_Description>
+		<Instructor_Name> Dani Deemer</Instructor_Name>
+		<Instructor_Email>deemer.7@osu.edu</Instructor_Email>
+		<Course_Requirements>permission of instructor</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Rural Sociology 5580 </syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>Social Impact Assessment </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>RS 5580 introduces students to consideration of the social and human impacts of change on groups and communities, with special reference to those associated with resource development and alterations to the natural environment. Students will learn how to identify and measure potential human and social impacts, and consider case studies of impact assessments conducted in various countries and cultures from around the world. My goal is to help you learn enough that you can apply what you have learned to real-life situations, and through acquisition of SIA/social science principles and skills, to enhance your chances of finding a job whose responsibilities include the human/social assessment of projects, policies, plans, and programs.</Course_Description>
+		<Instructor_Name>Joseph F. Donnermeyer </Instructor_Name>
+		<Instructor_Email>donnermeyer.1@gmail.com </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID> RURAL SOCIOLOGY 6500 </syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>THE SOCIOLOGY OF RURAL POVERTY </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>This course centers on the sociology of poverty in rural areas in the United States as well as in other, particularly less developed nations.  The sociology of poverty is part of the broader study of stratification, a core substantive field in the discipline.  The course situates the topic of rural poverty into sociological theories and research on stratification.  However, sociological theory and research on poverty and inequality are often aspatial or have an urban bias.  We thus go beyond conventional approaches to studying poverty and add a spatial dimension.  Our focus is: “Who gets what, where and why?” Attention is to spatial inequalities in socioeconomic well-being within the U.S. and cross-nationally. </Course_Description>
+		<Instructor_Name>Linda Lobao</Instructor_Name>
+		<Instructor_Email>lobao.1@osu.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Rural Sociology 7600 </syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>Theories and Concepts in Rural Sociology</Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Rural sociology is a broad sub-field of sociology which is informed theoretically and methodologically by the broader discipline.  This course examines the distinct substantive foci of rural sociology, including agriculture, environment, social inequalities, globalization/international development, community, and demographic processes--and the conceptual perspectives that have been applied to understand these substantive topics.  In addition, the course addresses broader sociological questions about uneven regional development, the role of space in social theory, and the social construction of "rurality."  We will focus on classic and contemporary “big-picture research questions” that rural sociologists address—and also examine how these might be carried-down to more empirically-oriented work. </Course_Description>
+		<Instructor_Name> Linda M. Lobao </Instructor_Name>
+		<Instructor_Email>lobao.1@osu.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID> COMM 3404 </syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>MEDIA LAW AND ETHICS</Course_Name>
+		<Field>Social Sciences</Field>
+		<Department>Law</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>It is the purpose of this class to provide you with a model by which to analyze, understand, and act upon the law and ethical considerations which journalists face. We will use the writings of the Supreme Court, the Ethical rules of the Society of Professional Journalists, and actual events to build an analytical model. You will compile a “Reporter’s Notebook” of what we learn. The purpose of the notebook is to give you a living reference, which you can use and add to as you pursue your career. </Course_Description>
+		<Instructor_Name>Jay Milano</Instructor_Name>
+		<Instructor_Email>milano.35@osu.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>COMM4555</syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>Computer Interfaces and Human Identity </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Law</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>
+ This course examines what role human identity plays in the ways in which people use computer interfaces (and, more broadly, emerging technological artifacts). In this course, we will focus on the following aspects of “human identity”: (1) traits and attributes that make human beings unique (and distinct from non-human beings); (2) traits and attributes that characterize an individual. In the first part of the course, we will address how unique human qualities affect our interaction and relationship with technological artifacts. In the second part of the course, we will discuss how self-concept and social identity shape user experience with technological artifacts. The third part of the course will focus on personal and social identity expressions via computer interfaces and their social implications. We will conclude the course by discussing how technological artifacts are dominating our mind and behavior in daily life and by reflecting on what consequences are brought about by such trends. Students will engage themselves with these topics through lectures, academic readings, in-class discussions, film viewing, and student presentations. </Course_Description>
+		<Instructor_Name>Roselyn J. Lee-Won </Instructor_Name>
+		<Instructor_Email>Lee-Won.1@osu.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID> GEOGRAPHY 8200 </syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>Frontiers in Geographic Information Science </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description> This graduate seminar is designed to strengthen students’ theoretical foundation in GIScience and improve their research skills in GIScience-related  projects. There are three specific objectives: 1. to explore the research frontiers in both GIScience theories and applications; 2. to train students to conduct rigorous research both “with” and “about” GIScience; 3. to facilitate students making progress towards completing their thesis/dissertation.  Although this course emphasizes the theoretical and technical aspects of GIScience, issues related to the practical applications of GIScience in geography, earth science, computer science, social sciences, public health, and humanities  will be covered. </Course_Description>
+		<Instructor_Name> Daniel Sui </Instructor_Name>
+		<Instructor_Email>sui.10@osu.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EE 835.01 </syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>ADVANCED PHOTOVOLTAICS</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>This course covers the rapidly expanding area of solar cells, an area of world-wide significance for achieving a clean and secure energy future, and an area that is a mainstay for space vehicular power applications from communication satellites and military vehicles to space exploration.  The past few years has seen the PV market supply and demand grow at an incredible pace, and the next decade will see the first large-scale non-subsidized commercialization of several photovoltaics technologies.  While there will be winners and losers in the choice of technology for specific solar energy applications, the market for students entering PV is already outstanding and will grow tremendously regardless of the specific solar technology.  Hence there is a great need to advance the field of photovoltaics with highly skilled individuals who have strong backgrounds in the basic science and application of photovoltaic devices.  This class covers the fundamentals of semiconductor-based solar cells, with a special emphasis on the science and application of III-V compounds and other inorganic photovoltaic semiconductors.  The goal of this class is to develop an advanced, working knowledge of solar cell material and device physics, solar cell design and their operation, in addition to achieve an understanding of the important differences between the existing types of photovoltaics technologies. </Course_Description>
+		<Instructor_Name> Steven A. Ringel </Instructor_Name>
+		<Instructor_Email>ringel.5@osu.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID> CSE 5343</syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name> Compiler Design and Implementation </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Lexical and syntax analyses using compiler generation tools; type checking; intermediate code; control-ﬂow analysis; data-ﬂow analysis; code optimizations; code generation; compiler projects</Course_Description>
+		<Instructor_Name> Atanas (Nasko) Rountev
+</Instructor_Name>
+		<Instructor_Email>rountev.1@osu.edu</Instructor_Email>
+		<Course_Requirements>CSE 3901 or 3902 or 3903 or 560</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BUSMHR 3000</syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name> Advanced Topics in International Business </Course_Name>
+		<Field>Social sciences </Field>
+		<Department>Business studies</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>This course introduces students to the advanced topics in international business: transnational management, strategy formulation and implementation, entry and operations in international markets, organizational structures in international business, country evaluations and risk management. </Course_Description>
+		<Instructor_Name> Tatiana Vashchilko</Instructor_Name>
+		<Instructor_Email>vashchilko.1@osu.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ACCAD 4101 </syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name> Performance and Installation Technologies </Course_Name>
+		<Field>Scocial sciences</Field>
+		<Department>Business studies</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>There is a long-standing interest from an increasing number of disciplines in migrating interactive computer graphics away from traditional keyboard/monitor/mouse interaction and out into the broader environment. Applications commonly obtain data from disparate media sources (e.g., sound, video, network data feeds, sensors), process this data in real-time, and ultimately represent information in different forms. Movement becomes color, video controls sound, and light drives motion. </Course_Description>
+		<Instructor_Name> Matthew Lewis</Instructor_Name>
+		<Instructor_Email>lewis.1@asu.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BUS-MHR 4323</syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name> Human Resource Practices and the Law</Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Law</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>This course provides a practical “hands on” focus to managing the legal aspects of human resource management.  Students will have the opportunity to learn how to effectively identify and manage the employment law issues that they will face as human resource professionals, as leaders and managers in organizations or as owners of their own businesses. </Course_Description>
+		<Instructor_Name>Robert (Bob) Weisman</Instructor_Name>
+		<Instructor_Email>Robert.Weisman@icemiller.com </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EE128</syllabus_ID>
+		<University_Name>OSU</University_Name>
+		<Course_Name>Feedback Control </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Three hours of lecture and three hours of laboratory per week. Analysis and synthesis of continuous and sampled-data linear feedback control systems. Advantages of feedback. Design by root locus, frequency response, and state space methods, with a comparison of techniques.</Course_Description>
+		<Instructor_Name>Ping Hsu </Instructor_Name>
+		<Instructor_Email>pinghsu@comcast.net </Instructor_Email>
+		<Course_Requirements> EE120</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Engineering 26</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>Three-Dimensional Modeling for Design </Course_Name>
+		<Field>Engineering</Field>
+		<Department>ME</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Three-dimensional modeling for engineering design.  This course will emphasize the use of CAD on computer workstations as a major graphical analysis and design tool.  Students develop design skills, and practice applying these skills. A group design project is required.  Hands-on creativity, teamwork, and effective communication are emphasized</Course_Description>
+		<Instructor_Name>Dennis K</Instructor_Name>
+		<Instructor_Email>dennis.1@berkely.edu</Instructor_Email>
+		<Course_Requirements>Permission of Instructore</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>CS 61B</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>Introduction to Programming</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description> The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer’s point of view. CS 61A covered high-level approaches to problem-solving, providing you with a variety of ways to organize solutions to programming problems: as compositions of functions, collections of objects, or sets of rules. In CS 61B, we move to a somewhat more detailed (and to some extent, more basic) level of programming. As in 61A, the correctness of a program is important. In CS 61B, we’re concerned also with engineering. An engineer, it is said, is someone who can do for a dime what any fool can do for a dollar. Much of 61B will be concerned with the tradeoﬀs in time and memory for a variety of methods for structuring data. We’ll also be concerned with the engineering knowledge and skills needed to build and maintain moderately large programs.</Course_Description>
+		<Instructor_Name> Paul N. Hilﬁnger</Instructor_Name>
+		<Instructor_Email>hilﬁnger@cs.berkeley.edu
+</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Linguistics C146</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name> Language Acquisition   </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Applied linguistics </Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>This course has two major goals. First, students will be exposed to work on language acquisition from a variety of perspectives to deepen their understanding of the topic and how it relates to language use more broadly. Second, class discussion will encourage students to consider how research on language acquisition informs our understanding of learning and cognition more generally</Course_Description>
+		<Instructor_Name> Emily Cibelli </Instructor_Name>
+		<Instructor_Email>ecibelli@berkeley.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Law 234.2</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name> CRIMINAL JUSTICE SEMINAR</Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Law</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>This seminar explores the rise of mass incarceration between the 1970's and the 2000's, its consequences for US law and society, and the emerging strategies to move the US justice system away from its heavy reliance on incarceration.  Our focus will be on understanding the opportunities and risks facing criminal justice reformers created by the current crisis of mass incarceration</Course_Description>
+		<Instructor_Name>Jonathan Simon </Instructor_Name>
+		<Instructor_Email>jsimon@law.berkeley.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Legal Studies 181 </syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>Psychology and Law </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Law</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description> This course offers a survey of theory and empirical research in psychology and law.  Throughout the course we will examine the implications of psychological theory and research for legal theory and for a variety of policies, procedures, and practices within the legal system. The course will draw on research in social, cognitive, and clinical psychology to examine evidence law (e.g., eyewitness testimony, polygraphy, expert testimony), procedure (e.g., line-ups, trial conduct, jury selection, settlement negotiations), and various topics in criminal law, tort law, antidiscrimination law, family law, and other areas. We will also address the concepts of intent, responsibility, deterrence, retribution, racial bias, and procedural and distributive justice. </Course_Description>
+		<Instructor_Name> Victoria Plaut </Instructor_Name>
+		<Instructor_Email>vplaut@law.berkeley.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID> MCELLBI C44 </syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>Biology for Future Voters </Course_Name>
+		<Field>Sciences</Field>
+		<Department>Biology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>MCELLBI C44 is a Discovery Course for non-Biology majors designed to introduce lower-division college students to biology through the lens of the contemporary problems facing people, the planet and the species of the planet.  Modern genetic contributions will be presented on such issues as genetic engineering of plants and animals, the emergence of new pathogens, the role of genetic variation among individuals, and the extent to which DNA is and isn’t destiny. Each week will close with the presentation and discussion of a defining biological challenge facing the world. 
+ </Course_Description>
+		<Instructor_Name>Jasper Rine </Instructor_Name>
+		<Instructor_Email>rine.1@berkely.edu</Instructor_Email>
+		<Course_Requirements> None </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ME 108 </syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>Mechanical Behavior of Engineering Materials</Course_Name>
+		<Field>Engineering</Field>
+		<Department>ME</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>This course covers elastic and plastic deformation under static and dynamic loads.  Failure by yielding, fracture, fatigue, wear, and environmental factors are also examined. Topics include engineering materials, heat treatment, structure-property relationships, elastic deformation and multiaxial loading, plastic deformation and yield criteria, dislocation plasticity and strengthening mechanisms, creep, stress concentration effects, fracture, fatigue, and contact deformation. </Course_Description>
+		<Instructor_Name> Kyriakos Komvopoulos </Instructor_Name>
+		<Instructor_Email>komvopolous.1@berkeley.edu</Instructor_Email>
+		<Course_Requirements>ME C85 </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ME 118</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>Introduction to Nanotechnology and Nanoscience </Course_Name>
+		<Field>Engineering</Field>
+		<Department>ME</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>This course introduces Engineering students (Juniors and Seniors) to the field of nanotechnology and nanoscience. The course has two components: (1) Formal lectures. Students receive a set of formal lectures introducing them to the field of nanotechnology and nanoscience. The material covered includes nanofabrication technology (how one achieves the nanometer length scale, from "bottom up" to "top down" technologies), the interdisciplinary nature of nanotechnology and nanoscience (including areas of chemistry, material science, physics, and molecular biology), examples of nanoscience phenomena (the crossover from bulk to quantum mechanical properties), and applications (from integrated circuits, quantum computing, MEMS, and bioengineering). (2) Projects. Students are asked to read and present a variety of current journal papers to the class and lead a discussion on the various works. </Course_Description>
+		<Instructor_Name> Yeung</Instructor_Name>
+		<Instructor_Email>yeung.1@berkeley.edu</Instructor_Email>
+		<Course_Requirements>Chemistry 1A, Physics 7B, Physics 7C, Engineering 45.  Biology 1A and Chem 1B preferrable. </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ME 131</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>Vehicle Dynamics and Control</Course_Name>
+		<Field>Engineering</Field>
+		<Department>ME</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Physical understanding of automotive vehicle dynamics including simple lateral, longitudinal and ride quality models. An overview of active safety systems will be introduced including the basic concepts and terminology, the state-of-the-art development, and basic principles of systems such as ABS, traction control, dynamic stability control, and roll stability control.  Passive, semiactive and active suspension systems will be analyzed. Concepts of autonomous vehicle technology including drive-by-wire and steer-by-wire systems, adaptive cruise control and lane keeping systems. Upon completion of this course, students should be able to follow the literature on these subjects and perform independent design, research and development work in this field</Course_Description>
+		<Instructor_Name> Hedrick </Instructor_Name>
+		<Instructor_Email>hedrick.1@berkeley.edu</Instructor_Email>
+		<Course_Requirements>Math 53, 54, Physics 7A-7B. Programming (E7) Ordinary differential equations (Math 1B, Math 54) Elementary linear algebra (M54) </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ME 135</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>Design of Microprocessor-Based Mechanical Systems</Course_Name>
+		<Field>Engineering</Field>
+		<Department>ME</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>This course provides preparation for the conceptual design and prototyping of mechanical systems that use microprocessors to control machine activities, acquire and analyze data, and interact with operators. The architecture of microprocessors is related to problems in mechanical systems through study of systems, including electro-mechanical components, thermal components and a variety of instruments. Laboratory exercises lead through studies of different levels of software. </Course_Description>
+		<Instructor_Name> Yeung</Instructor_Name>
+		<Instructor_Email>yeung.1@berkeley.edu</Instructor_Email>
+		<Course_Requirements>Engineering 7 </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ME 165 </syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name> Ocean-Environment Mechanics</Course_Name>
+		<Field>Engineering</Field>
+		<Department>ME</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Ocean environment. Physical properties and characteristics of the oceans. Global conservation laws. Surfacewaves generation. Gravity-wave mechanics, kinematics, and dynamics. Design consideration of ocean vehicles and systems. Drag and propulsion.  Model-testing techniques. Prediction of resistance and response in waves, both physical modeling and computer models. </Course_Description>
+		<Instructor_Name> Yeung</Instructor_Name>
+		<Instructor_Email>yeung.1@berkeley.edu</Instructor_Email>
+		<Course_Requirements>ME 106 OR Civil and Environmental Engineering 100. </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ME 285D</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name> Engineering Rheology </Course_Name>
+		<Field>Engineering</Field>
+		<Department>ME</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Rheology is the study of the interaction between forces and the flow/deformation of materials. It deals with aspects of the mechanics of materials that are not covered in the standard curriculum, such as the response of viscoelastic fluids and solids, together with methods for modeling and simulating their response. Such materials exhibit a host of counterintuitive phenomena that call for nonlinear modeling and a close interaction between theory and experiment. This is a special-topics course for graduate students seeking advanced knowledge of these phenomena and associated modeling. </Course_Description>
+		<Instructor_Name>Steigmann</Instructor_Name>
+		<Instructor_Email>steigmann.1@berkeley.edu</Instructor_Email>
+		<Course_Requirements>A basic background in continuum mechanics (as covered in ME 185). </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ME C85 </syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name> Introduction to Solid Mechanics</Course_Name>
+		<Field>Engineering</Field>
+		<Department>ME</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>A review of equilibrium for particles and rigid bodies. Application to truss structures. The concepts of deformation, strain and stress. Equilibrium equations for a continuum. Elements of the theory of linear elasticity. The states of plane stress and plane strain.  Solution of elementary elasticity problems (beam bending, torsion of circular bars). Euler buckling in elastic beams.  </Course_Description>
+		<Instructor_Name>Johnson</Instructor_Name>
+		<Instructor_Email>johnson.1@berkeley.edu</Instructor_Email>
+		<Course_Requirements>Physics 7A, Math 53 and Math 54 (may be taken concurrently), and Engineering 7. </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID> EECS C128 </syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>FEEDBACK CONTROL SYSTEMS </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Analysis and synthesis of linear feedback control systems in transform and time domains. Control system design by root locus, frequency response, and state space methods. Applications to electro-mechanical and mechatronics systems. </Course_Description>
+		<Instructor_Name> Horowitz</Instructor_Name>
+		<Instructor_Email>horowtz.1@berkeley.edu</Instructor_Email>
+		<Course_Requirements>EE 16A </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>SOCIOLOGY 1</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name> INTRODUCTION TO SOCIOLOGY </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>This class will cover some of the fundamental theories, concepts, and methodologies of sociology. You will learn what it means to have a sociological imagination. Once you complete this course, you will have the basic tools you will need to further your sociological training and to evaluate and analyze the social world. </Course_Description>
+		<Instructor_Name>Jill Bakehorn</Instructor_Name>
+		<Instructor_Email>jabakehorn@berkeley.edu </Instructor_Email>
+		<Course_Requirements>Permission of Instructor</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Sociology 133</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name> Sociology of Gender </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>The sociology of gender focuses on the social construction of gender. Other theories of gender such as biological explanations will be discussed in comparison to the social constructionist approach. The course will begin with an examination of key theoretical approaches to the study of gender. Special attention will be paid to how gender is constructed at the level of society as well as how we engage in the re-creation and construction of gender in our everyday lives. </Course_Description>
+		<Instructor_Name>Jill Bakehorn </Instructor_Name>
+		<Instructor_Email>jabakehorn@berkeley.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Sociology 160</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name> Sociology of Culture </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>The Sociology of Culture is a broad field of study encompassing every aspect of our lives, not just those things we typically think of like music and art, but also our clothes, food, furniture, language, ideologies, rhetoric, technology, gestures, and symbols; culture is all things created by humans. Culture is what gives our lives shape, allows us to predict social action, informs our behavior and patterns of thought, and imbues our lives with meaning.  </Course_Description>
+		<Instructor_Name>Jill Bakehorn</Instructor_Name>
+		<Instructor_Email>jabakehorn@berkeley.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>SOC 280Q </syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>ECONOMY AND SOCIETY:  MORAL VIEWS OF MARKET SOCIETY</Course_Name>
+		<Field>Social Sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>This course is an introduction to economic sociology. Sociologists have always studied economic processes, though perhaps never as militantly and self-consciously as they do today. The last twenty years have indeed seen a rather extraordinary flourishing of sociological scholarship in this area, which seeks both to critique the analytical assumptions and research procedures commonly used in mainstream economics, and also to offer sociologically grounded accounts of economic phenomena. This movement culminates in the formulation of alternative claims regarding economic behavior and economic processes, and in the institutionalization of a specific subfield known as economic sociology.  
+ </Course_Description>
+		<Instructor_Name>Marion Fourcade </Instructor_Name>
+		<Instructor_Email>fourcade@berkeley.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Soc 169 </syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>Cross-Cultural Communications </Course_Name>
+		<Field>Social Sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>With globalization, the Internet, and the general shrinking of time and space, crosscultural interaction has become a necessity in people’s everyday lives. This course is designed to interrogate different aspects of cross-cultural communication and cultural differences: family life, social relationships, the workplace, government, education, gender, romance, and religion. Throughout exploring these topics, we will strive to engage in personal self-reflection, hands-on experience, and to understand the connections to larger social structures. </Course_Description>
+		<Instructor_Name> Edwin Lin </Instructor_Name>
+		<Instructor_Email>edklin@gmail.com </Instructor_Email>
+		<Course_Requirements>Permission of Instructor</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EE 126 </syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name> Probability and Random Processes</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description> Probability is a mathematical discipline that allows one to reason about uncertainty: it helps us to predict uncertain events, to make better decisions under uncertainty, and to design and build systems. Throughout the course, we will teach you the fundamental ideas of probability and random processes along with the mini-labs. The hands-on assignments are carefully designed so that they prove how the mathematical concepts can be used to design and build modern systems in many engineering ﬁelds: communication systems and networks, signal processing systems, and control systems. </Course_Description>
+		<Instructor_Name>Kannan Ramchandran
+</Instructor_Name>
+		<Instructor_Email>kannanr@eecs.berkeley.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ComputerScience98</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>Hands-On Unix System Administration</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>The course will cover the setup and administration of a production-quality Unix server, suitableforweb/mailhosting,sharedshellhostingàlatheEECSInstructionalservers,and the like. Topics include general Unix prociency (which is also useful in CS courses), the Internetinfrastructure,andsystemadministrationessentials.</Course_Description>
+		<Instructor_Name>JordanSalter</Instructor_Name>
+		<Instructor_Email>jordan.salter@berkeley.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Sociology 110 </syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name> Organizations </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>
+ There is a curiosity to organizations in today’s society: they are utterly ubiquitous, and yet there is little formal theory about how they operate. We often think about them in terms of cultural tropes like being weighed down by “red tape”—and/or assume that they are merely instruments to be used for good or for ill by individuals. </Course_Description>
+		<Instructor_Name> Linus Huang </Instructor_Name>
+		<Instructor_Email>lbhuang@berkeley.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Sociology 117</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name> Sports as a Social Institution </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>This course is constructed around the following premises: (1) that sports is something many (but not all!) of us talk about almost endlessly; but (2) that all this talk is almost always confined within very narrow parameters. When we “talk sports”, the topics we discuss, how we talk about them, and what the possible viewpoints are (both “good” and “bad”), are all given beforehand by deeply entrenched social institutions. 
+ </Course_Description>
+		<Instructor_Name>Linus Huang</Instructor_Name>
+		<Instructor_Email>lbhuang@berkeley.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Sociology 166 </syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>Society &amp; Technology </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Technology is generally viewed in terms of material objects—automobiles, handguns, nuclear warheads, remotecontrolled drones, smartphones, etc.—that exist independently of humans. Certain consequences, not only academic/intellectual but also practical and political, result from viewing technology in this way. The central premise of a sociological approach to technology is that these material objects are inextricably bound up in social relations; these material objects, plus the practices and relations that sustain them, are together referred to as sociotechnical systems. 
+ </Course_Description>
+		<Instructor_Name> Linus Huang </Instructor_Name>
+		<Instructor_Email>lbhuang@berkeley.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Law 276P </syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>Information Privacy Law </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Law</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Ten years ago, a handful of practitioners could be called "privacy lawyers." Now thousands concentrate in the field. Almost all modern businesses need advice about information privacy law. While the roots of privacy law in the US started with a right to be let alone, modern business models, the needs of the administrative state, law enforcement priorities, and our own behavior complicate approaches based upon seclusion or secrecy. This course will explore the roots of US privacy law, its evolution in the 20th century, and the challenges of regulating information in the modern era where institutions and "data subjects" need and reveal information constantly, but also seek basic dignity and safety from harm. Privacy law is torts, contracts, constitutional law, statutory law, and soft law norms. We will discuss all of these things and developments in the headlines. 
+  </Course_Description>
+		<Instructor_Name>Chris Jay Hoofnagle </Instructor_Name>
+		<Instructor_Email>choofnagle@law.berkeley.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>EECS 232</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name> LIGHTWAVE DEVICES </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Develop a physical understanding of optoelectronic devices, including light-emitting diodes, semiconductor lasers, photodetectors, modulators;  Acquire basic skills for analyzing and designing semiconductor optoelectronic devices.  
+ </Course_Description>
+		<Instructor_Name> Ming C. Wu </Instructor_Name>
+		<Instructor_Email>wu@eecs.berkeley.edu </Instructor_Email>
+		<Course_Requirements> EECS 130</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Law 202F</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name>Contracts</Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Law</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>The course is divided into four parts, one introductory and three topical. "Part 0" is introductory, and is designed to give you some perspective about the structure of the course and the normative underpinnings of contract law. "Part 1" discusses remedies for breach of contract. "Part 2" addresses the determination of duties and breach under a contract. "Part 3" examines the doctrines governing contract formation, and includes an examination of the existing doctrinal constraints on contracting. Note: I may, from time to time, issue revisions to this syllabus during the term, depending on news events, recent cases, and our pace in class</Course_Description>
+		<Instructor_Name> Eric Talley </Instructor_Name>
+		<Instructor_Email>etalley@berkeley.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>UGIS 120</syllabus_ID>
+		<University_Name>UC Berkeley</University_Name>
+		<Course_Name> Introduction to Applied Language Studies </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Applied linguistics</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>This course is about language as people use it, learn it, adapt it, and think about it in realworld settings.   The overall methological frame we will use to analyze language use will be  discourse analysis, which we will study for the first half of the semester.  Along the way, and especially in the second half of the semester, we will consider topics such as language learning and teaching, language socialization, bi-/pluri-/multilingualism, language policy and planning, computer-mediated communication, stylistics, translation, intercultural communication, language and symbolic power, political and commercial rhetoric. We will explore such questions as: How do people do things with words? How does language both reflect and construct contexts, values, beliefs and ideologies? How is language related to thought?  How do people appropriate a new language and how does this affect their social and cultural identity? How can language both create problems and help solve them in the real world of politics, religion, medicine and academia?  The course attempts to build bridges between theory and practice, and will involve fieldwork focused on the observation and analysis of language use in a variety of social and material contexts. 
+ </Course_Description>
+		<Instructor_Name> Rick Kern </Instructor_Name>
+		<Instructor_Email>rkern@berkeley.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID> FDSC 3202 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> INTRODUCTION TO FOOD LAW </Course_Name>
+		<Field>Sciences</Field>
+		<Department>Biology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Discussion of government laws and regulation governing the manufacture of food. Emphasis is on federal regulations relating to food safety, labeling and the FDA. Discussion relates to practical use of food law. Lecture 2 hours a week. </Course_Description>
+		<Instructor_Name> Professor A. Proctor</Instructor_Name>
+		<Instructor_Email>aproctor@uark.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ELEG 2114 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> ELECTRIC CIRCUITS II </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description> Introduction to complex numbers. Sinusoidal steady-state analysis of electric circuits, active, reactive, apparent and complex power; balanced and unbalanced three-phase circuits; mutual inductance; the use of the Laplace transform for electric  circuit analysis and two-port networks</Course_Description>
+		<Instructor_Name>Roy McCann </Instructor_Name>
+		<Instructor_Email>cann.1@urak.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ELEG 3124</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> Signals and Systems </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Continuous signals and systems, linear system analysis, convolution, Laplace transform, Fourier series, Fourier transform</Course_Description>
+		<Instructor_Name>Jingxian Wu </Instructor_Name>
+		<Instructor_Email>jingxian.1@uark.edu</Instructor_Email>
+		<Course_Requirements> ELEG 2104 or ELEG 3903 </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>AGEC 3503 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name>Vehicle Dynamics and Control</Course_Name>
+		<Field>Sciences</Field>
+		<Department>Physics</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Examination of those areas of law especially applicable to agriculture. Fundamentals of contract law, torts law, and property law will accompany discussion of major areas of agricultural law; acquisition and disposal of farmland; farm tenancies; rights and limitations in the use and ownership of farmland; animal law; environmental protection; protection of the productivity of agricultural land; and the law of sales and secured transactions in an agricultural context. </Course_Description>
+		<Instructor_Name>Rusty Rumley</Instructor_Name>
+		<Instructor_Email>rrumley@uark.edu  </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ELEG 3704 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> ELECTROMAGNETICS </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Analysis of transmission lines with sinusoidal and transient excitation. Development and use of the Smith Chart and methods of impedance matching. Vector analysis, static form of Maxwell's equations, electrostatics, and magnetostatics</Course_Description>
+		<Instructor_Name>Magda El-Shenawee </Instructor_Name>
+		<Instructor_Email>shenawee.1@uark.edu</Instructor_Email>
+		<Course_Requirements> ELEG 2114</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ELEG  4213 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name>MICROSENSORS, MEMS AND SMART DEVICES </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>The aim of this class is not only to make students familiar with recent developments and process technology of the microsensors, MEMS, and smart devices in the classroom, but also to give them hands on experience for the fabrication processes using micro-fabrication tools in the cleanroom. In the classroom, the first part of this lecture will review briefly on various application fields of the microsensors, MEMS, and smart devices. Then we will concentrate on the materials and on processes required to make different kinds of the microdevices. Most of these technologies have been derived from silicon integrated circuit (IC) technologies, so the standard microelectronics technology to produce ultra large-scale integrated circuits and package them will also be reviewed. Then, the new techniques that have been developed to make microsensors and microactuators, such as bulk and surface silicon micromachining will be followed. In addition, the emerging technology of microstereolithography that can be used to form true three-dimensional micromechanical structures will be included.</Course_Description>
+		<Instructor_Name>Vijay K. Varadan</Instructor_Name>
+		<Instructor_Email>vjvesm@uark.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ELEG 4293 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> Modeling and Simulation of Mixed-Signal Circuits and Systems </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>This course on HDL modeling and simulation will first introduce the students to basics behind analog and digital simulation.  The general algorithmic flow of each will be described as well as a detailed description of algorithms that are executed during simulations. Next, hardware description languages will be described in the context of the simulation process. Semantic and syntactic information will be described. Most importantly the conceptual level information surrounding model creation will be presented. The modeling and simulation tools will be used together in case studies where the focus will be on analysis techniques and getting the most from the simulation tools. This class is recommended for all students considering employment involving mixed-signal circuit (including analog and digital ICs) or mixed-technology system design and test.</Course_Description>
+		<Instructor_Name> Alan Mantooth </Instructor_Name>
+		<Instructor_Email>mantooth@engr.uark.edu </Instructor_Email>
+		<Course_Requirements> ELEG 3213, 3223</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ELEG 4323</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name>SWITCH MODE POWER CONVERSION </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Basic switching converter topologies: buck, boost, buck-boost, Cuk, flyback, resonant; pulsewidth modulation; integrated circuit controllers, switching converter design case studies; SPICE analyses of switching converters, state-space averaging and linearization; and switching converter transfer functions.</Course_Description>
+		<Instructor_Name>Simon S. Ang</Instructor_Name>
+		<Instructor_Email>ang.1@uark.edu</Instructor_Email>
+		<Course_Requirements>ELEG 3223 and ELEG 3123 </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ELEG 4503 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name>Design of Advanced Electric Power Distribution Systems </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Design considerations of electric power distribution systems, including distribution transformer usage, distribution system protection implementation, primary and secondary networks design, applications of advanced equipment based on power electronics, and use of capacitors and voltage regulation</Course_Description>
+		<Instructor_Name>Juan Carlos Balda </Instructor_Name>
+		<Instructor_Email>balda.1@uark.edu</Instructor_Email>
+		<Course_Requirements>ELEG 3304 </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>HORT 4932 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name>Turfgrass Best Management Practices </Course_Name>
+		<Field>Social Sciences</Field>
+		<Department>Applied linguistics</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>This course covers strategies used to control turfgrass pests and manage high quality turf in an economically sound manner with minimal risk to humans and the environment.  Specifically, we will focus on the identification, biology, and control practices for the major insects, nematodes, diseases, and weeds that infest turfgrasses. Emphasis will be placed on management strategies that include both chemical and non chemical approaches to the prevention and control of common turfgrass pests. </Course_Description>
+		<Instructor_Name> Doug Karcher </Instructor_Name>
+		<Instructor_Email>karcher@uark.edu </Instructor_Email>
+		<Course_Requirements>HORT 2303/2300L</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ELEG 5403 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> Systems Theory </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>This course is targeted towards graduate students in control systems and digital signal processing, although the material is applicable to most areas of engineering. The purpose is to introduce the design and analysis methods for linear systems, with emphasis on multiple-input and multiple-output systems. In addition, the concept of function spaces as a method to bring geometrical aspects to signal analysis will be presented</Course_Description>
+		<Instructor_Name> Roy McCann</Instructor_Name>
+		<Instructor_Email>rmccann@uark.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>AGEC 5713</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name>Food Safety Law</Course_Name>
+		<Field>Sciences</Field>
+		<Department>Biology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>This course covers the law regulating the manufacture, distribution, and sale of food products in the United States. The emphasis is on food safety law, but safety is often intertwined with other many other aspects of U.S. food regulation. Topics covered include the regulation of labeling, food additives, dietary supplements, genetic modification, HACCP, civil and criminal liability for defective products, inspections, importation and exportation. The course is designed to give the student a better understanding of the issues involved in the regulation of foods, a general understanding of the full scope of food safety regulation United States, and gaining skill in analyzing how the law applies to the facts of a novel situation.</Course_Description>
+		<Instructor_Name>Neal Fortin </Instructor_Name>
+		<Instructor_Email>fortin.1@uark.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>CMJS 2003</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> Introduction to Criminal Justice </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Law</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>This course examines the history, organization, and function of the criminal justice system, including topics related to policing, courts, and corrections. An overarching theme of the course is the balance between two primary goals of the criminal justice system: 1) . controlling crime and protecting the public and 2) . protecting the constitutional rights and personal liberties of criminals. In this course, we examine how views of justice have shifted over time and what key social events have shaped our current criminal justice system policies. Moreover, we dissect differing definitions and views of justice from the perspectives of victims, offenders, and community. There will be a number of other important reoccurring themes, such as discretion of criminal justice actors, which will appear throughout each section of the course. A number of more controversial issues will also be discussed, such as racial profiling, police use of force, death penalty, and forced medication of mentally ill offenders. Through recorded lectures, videos, class exercises, and quizzes, students will understand and identify the multiple dimensions of these criminal justice issues.</Course_Description>
+		<Instructor_Name> Jeff Gruenewald </Instructor_Name>
+		<Instructor_Email>jgruenew@uark.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID> CSCE 3313 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name>Algorithms</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description> Provides an introduction to formal techniques for analyzing the complexity of algorithms. The course surveys important classes of algorithms used in computer science and engineering</Course_Description>
+		<Instructor_Name>Gordon Beavers </Instructor_Name>
+		<Instructor_Email>gordonb@uark.edu </Instructor_Email>
+		<Course_Requirements> CSCE 2014 and MATH 2603</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>ANTH 1013</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name>Introduction to Biologica Anthropology</Course_Name>
+		<Field>Sciences</Field>
+		<Department>Biology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Biological anthropology is the scientific study of human biology within the framework of evolution. This course is divided into three parts. Each section of the course contributes to an overall understanding of human biology and the process of human evolution. Part I covers the basic principles of evolution and natural selection, as well as the fundamental genetics necessary for understanding the mechanics of inheritance. Part II presents an overview of non-human primates, introduces the variety of social systems found in non-human primates, and presents an evolutionary framework for the study of social behavior in humans and other animals. The fossil record for non-human primate evolution is also briefly surveyed. Part III covers the fossil evidence for human evolution and the anatomical and genetic evidence for the origin of our species. In this section, we will also explore the origin of physical and genetic diversity within and between populations of extant humans. The course is designed to meet University and State standards as a core curriculum course. Each section of the course contributes to an overall understanding of the scientific method, human biology, and the process of evolution</Course_Description>
+		<Instructor_Name> Claire Terhune </Instructor_Name>
+		<Instructor_Email>cterhune@uark.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BIOL5334</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> Biochemical Genetics
+</Course_Name>
+		<Field>Sciences</Field>
+		<Department>Biology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>This class is primarily a hands-on laboratory based course designed to teach you about molecular techniques.  This semester we will use the yeast two-hybrid screen as the starting point for the course.  In groups, you will perform a two-hybrid screen from start to finish.  While you may think this is simply one technique, it requires multiple molecular techniques to properly carry out such a screen (including DNA cloning, yeast and E. coli DNA transformations, Western and Southern blotting, PCR and others).  The two-hybrid simply provides the basis for entry point for learning these techniques.  It should be emphasized that this course has not been planned such that every experiment will give a known result, like many undergraduate courses.  Rather you will approach this course as a research project in which the final outcome is not known in advance.  It is my hope that members of the class will interact with each other and participate together toward the common goal of making this two-hybrid screen a success.
+</Course_Description>
+		<Instructor_Name> Ines Pinto</Instructor_Name>
+		<Instructor_Email>ipinto@uark.edu</Instructor_Email>
+		<Course_Requirements> instructor permission only
+</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>CSCE 2014</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> Programming Foundations II </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>This course continues developing problem solving techniques by focusing on fundamental data structures and associated algorithms. Topics include: abstract data types, introduction to object-oriented programming, linked lists, stacks, queues, hash tables, binary trees, graphs, recursion, and searching and sorting algorithms. Using C++ in a UNIX environment. Prerequisite: CSCE 2004 with a grade of C or better. Corequisite: Lab component </Course_Description>
+		<Instructor_Name>Wing Ning Li </Instructor_Name>
+		<Instructor_Email>wingning@uark.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>CSCE 3143</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> Data Structures </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Applications of the elements of data structures, arrays, linked lists, trees, stacks, and search techniques</Course_Description>
+		<Instructor_Name>Wing Ning Li </Instructor_Name>
+		<Instructor_Email>wingning@uark.edu</Instructor_Email>
+		<Course_Requirements> MATH2103 and CSCE 2013</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>CSCE 3613</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> Operating Systems </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>An introduction to operating systems including topics in system structures, process management, storage management, files, distributed systems, and case studies</Course_Description>
+		<Instructor_Name>Wing Ning Li </Instructor_Name>
+		<Instructor_Email>wingning@uark.edu</Instructor_Email>
+		<Course_Requirements> CSCE 2014 and CSCE 2214 </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>CSCE 4323 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> Introduction to Formal Languages and Computability </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Finite automata and regular languages, regular expressions, context-free languages and pushdown automata, nondeterminism, grammars, Turing machines, primitive recursive and m-recursive functions. Church’s thesis, halting problem, and undecidability.</Course_Description>
+		<Instructor_Name>Wing Ning Li </Instructor_Name>
+		<Instructor_Email>wingning@uark.edu</Instructor_Email>
+		<Course_Requirements> CSCE 3313 algorithms. </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>CSCE 4561 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> CAPSTONE I </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description> Computer Science and Computer Engineering students complete a comprehensive project during their final year of undergraduate studies. The project is completed over two semesters in phases: concept, design, formal proposal, implementation, presentation, and report.  The project includes and may require the integration of software, hardware, and human factors elements and is developed using appropriate software engineering and system design methodologies.  The emphasis in Capstone I (one hour) is on brainstorming, project evaluation, team formation, careers, business of computing, intellectual property, professional organizations, and professional ethics.  The emphasis of Capstone II (three hours) is on detailed design, rapid prototyping, implementation, testing, and packaging. </Course_Description>
+		<Instructor_Name> Matt Patitz </Instructor_Name>
+		<Instructor_Email>patitz@uark.edu </Instructor_Email>
+		<Course_Requirements>CSCE 3513 Software Engineering </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>CSCE 5013</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name>Advanced Special Topics in Computer Science:  Parallel Algorithms</Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description> Parallel and distributed computation is a fundamental concept and technique through which computations can be accelerated and scaled. The increasing availability of parallel computer hardware and interest in cluster and grid computing represents both opportunities and challenges. In particular, a parallel solution presents additional conceptual and programming challenges of which this class will address. In this class we are going to study models of parallel computations; how to develop algorithms executable on these models; and how to analyze their correctness and efficiency. Both theoretical and practical aspects of parallel computations will be studied. </Course_Description>
+		<Instructor_Name>Wing Ning Li </Instructor_Name>
+		<Instructor_Email>wingning@uark.edu</Instructor_Email>
+		<Course_Requirements>Basic computer organization, programming, data structures and algorithms</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID> HIST 3923H </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> The Darwin Course </Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Few things worth knowing well can be understood from a single dimension, yet many university courses provide singular views with the resulting focus on depth rather than breath.  Such depth can be powerful but is necessarily limited.  The Darwin Course will focus on Charles Darwin and his discovery of a major mechanism for evolution but it is specifically designed to draw on the intellectual strengths and expertise of a variety of UA faculty members to provide the most complete view possible.  The course will examine Darwin, his life and times, the philosophical implications of the interface between science and religion, the impact of evolution on literature, the science of evolution, and legal issues resulting from the inclusion of evolution in school science curricula.  Faculty members who will be part of the instructional team have expertise in history, biology, philosophy, physics, literature, law and science education.  The resulting highly interdisciplinary course should appeal to and challenge honors students possessing a wide diversity of interests and demonstrate that the most complete understanding of any topic comes by crossing disciplinary boundaries.</Course_Description>
+		<Instructor_Name> William F. McComas</Instructor_Name>
+		<Instructor_Email>mccomas@uark.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>FDSC 4754 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name>Engineering Principles of Food Processing </Course_Name>
+		<Field>Sciences</Field>
+		<Department>Biology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Basic mechanics of refrigeration, temperature controls, materials handling, and mechanical problems as applied to food processing. </Course_Description>
+		<Instructor_Name>Griffiths G. Atungulu</Instructor_Name>
+		<Instructor_Email>atungulu@uark.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>MEEG 5403</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> Advanced Thermodynamics</Course_Name>
+		<Field>Sciences</Field>
+		<Department>Physics</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description> (1) Develop a comprehensive understanding of the basic principles and applications of classical thermodynamics and (2) provide an introduction to the concepts of microscopic thermodynamics, including classical quantum mechanics, elementary kinetic theory, molecular models, and statistical thermodynamics. </Course_Description>
+		<Instructor_Name> Rick J. Couvillion</Instructor_Name>
+		<Instructor_Email>rjc@uark.edu</Instructor_Email>
+		<Course_Requirements> Thermodynamics I, Excel, and Matlab skills</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>FDSC 4333/5333 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name>Molecular biology techniques applied to nutrition and food science </Course_Name>
+		<Field>Sciences</Field>
+		<Department>Biology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>This course will provide advanced knowledge on current molecular biology techniques and how they can be used in nutrition and food science. A specific emphasis will be given on learning how to understand and interpret results generated through these methods. Therefore, the course is of interest to a wider audience, as such analytic skills are valuable for a diverse array of disciplines. Methods covered will include DNA and RNA-based techniques</Course_Description>
+		<Instructor_Name> Franck Carbonero </Instructor_Name>
+		<Instructor_Email>fgcarbon@uark.edu </Instructor_Email>
+		<Course_Requirements> Instructor consent </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>CENG 510V</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> RFID Communications </Course_Name>
+		<Field>Engineering</Field>
+		<Department>EE</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Radio frequency identification (RFID) communication topics including physical and link layer protocols, standardization efforts, security and privacy, and applications. Prerequisite: senior or graduate standing.</Course_Description>
+		<Instructor_Name> Dale R. Thompson </Instructor_Name>
+		<Instructor_Email>thompson@uark.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>Sociology 5083 </syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name>METHODS OF FIELD RESEARCH</Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>As with most graduate courses, SOCI 5083 is purposely organized in a seminar format with high expectations for student participation. You will be asked to facilitate discussions from time to time.   Some classes will be used as laboratories to practice certain research skills.  Other sessions will focus upon reading assignments or lectures (informed discussions are an absolute must for this course!).   Students will be required to do substantial out of class work to complete project assignments. Qualitative methods and field research, in particular, are best learned via the apprentice method.  As many of you already know, field research is extremely time consuming</Course_Description>
+		<Instructor_Name> Lori Holyfield </Instructor_Name>
+		<Instructor_Email>lholyfie@uark.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>SOCI. 3303</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name> SOCIAL DATA AND ANALYSIS</Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Social statistics is an extremely important class for sociology majors and students from all other relevant disciplines for their future academic pursuits and social practices. In this class, we will start with some basic concepts such as statistics and variables, univariate analyses, and inferential statistics, move to bivariate analyses including regression and correlation, and finish with multivariate analyses including multiple regression and correlation. Upon finishing this course, students should be able to conduct statistical analysis in their substantive areas by applying appropriate statistic techniques.</Course_Description>
+		<Instructor_Name> Song Yang </Instructor_Name>
+		<Instructor_Email>yangwang@uark.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>SOCI 4013</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name>Social Network Analysis – Methods and Examples</Course_Name>
+		<Field>Social sciences</Field>
+		<Department>Sociology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Social network analysis has been experiencing explosive growth recent years. Two reasons are behind such massive popularity of social network analysis. On the theoretical and methodological fronts, social network analysis draws interests from diverse fields, such as psychology, anthropology, sociology, and lately, political science, economics, and management sciences. In fact, network studies go beyond the “social,” it has roots in physics, computer science/engineering, biology, information science, and food science. Such greatly multidisciplinary efforts enhance the network studies tremendously, and improve the fundamental research in network methods, theories, and its applications. Another reason lies in the popular application of network studies. We are living in a generation of facebook and twitter, which capitalize on the network way of thinking and socializing, and network technology. The two forces meet up with each other, creating a hugely unprecedented enthusiasm about the network studies</Course_Description>
+		<Instructor_Name> Song Yang </Instructor_Name>
+		<Instructor_Email>yangwang@uark.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BIOL 4554</syllabus_ID>
+		<University_Name>University of Arkansas</University_Name>
+		<Course_Name>DEVELOPMENTAL BIOLOGY</Course_Name>
+		<Field>Sciences</Field>
+		<Department>Biology</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description> This course provides an introduction to both classical and modern Developmental Biology. Using primarily model organisms as examples, we will look at basic developmental processes and their regulation on an organismal, cellular and molecular level</Course_Description>
+		<Instructor_Name>Michael Lehmann </Instructor_Name>
+		<Instructor_Email>mlehmann@uark.edu </Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 3610 </syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Basic Info System</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Theory, capabilities, applications, benefits, liabilities and economics of business computer information systems. Using the computer to solve business problems. Management information systems and computer-based decision support emphasized. Use of standard support application packages.</Course_Description>
+		<Instructor_Name>Windsor J</Instructor_Name>
+		<Instructor_Email>windsor.j@my.unt.edu</Instructor_Email>
+		<Course_Requirements> BCIS 2610 or equivalent.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 3615</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Visiual Display</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Explores the use of visual display techniques and tools in the creation of electronic business documents and presentations. Stresses development of good written and oral presentation skills, as well as familiarity with a wide range of multimedia tools.</Course_Description>
+		<Instructor_Name>Peak D</Instructor_Name>
+		<Instructor_Email>peak.d@my.unt.edu</Instructor_Email>
+		<Course_Requirements> BCIS 2610 or equivalent</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 3620</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Mainframe Concepts</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Introduction to COBOL programming in the business environment. Emphasis on the fundamentals of structured program design, development, testing, implementation and documentation of common business-oriented applications using COBOL. Coverage of language syntax, data and file structures editing, report generation, data validation, basic file processing and an introduction to batch and interactive JCL.</Course_Description>
+		<Instructor_Name>Guynes C</Instructor_Name>
+		<Instructor_Email>guynes.c@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 2610 or equivalent; a grade of C or better in each previously taken BCIS course, or consent of department; 2.7 UNT GPA (2.7 transfer GPA if no courses taken at UNT).</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 3630</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>OOP Business</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Introduction of abstract data types, inheritance, object identity, polymorphism as they relate to building business objects and business classes; use of Java programming language depicting the object orientation concepts; use of class libraries and Java packages for business object construction.</Course_Description>
+		<Instructor_Name>Guynes C</Instructor_Name>
+		<Instructor_Email>guynes.c@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 2610 or equivalent; 2.7 UNT GPA (2.7 transfer GPA if no courses taken at UNT); a grade of C or better in each previously taken BCIS course; or consent of department</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 3680</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Enterprise Programming</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Concepts of enterprise-level Java development such as graphical interfaces, JavaBeans, database services, and distributed systems as they relate to building object-oriented applications at the enterprise-level.</Course_Description>
+		<Instructor_Name>Wu Y</Instructor_Name>
+		<Instructor_Email>wu.y@my.unt.edu</Instructor_Email>
+		<Course_Requirements> BCIS 3630. 2.7 UNT GPA (2.7 transfer GPA if no courses taken at UNT); a grade of C or better in each previously taken BCIS course, or consent of department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 4610</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Analy Bus Info Sys</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>An integrated perspective of the problems in today's information systems environment, concentration on contemporary design methodologies and considerations unique to users of computers and information systems. Topics include current systems analysis, modular design, development and implementation, documentation, project planning and task definition, and other systems analysis topics.</Course_Description>
+		<Instructor_Name>Koh C</Instructor_Name>
+		<Instructor_Email>Koh.c@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 3610 or equivalent; 2.7 UNT GPA (2.7 transfer GPA if no courses taken at UNT); a grade of C or better in each previously taken BCIS course, or consent of department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 4620</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Database Applicant</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Analysis of file organization techniques and data structures. Consideration of the management of data as a resource. Design of data models and databases in business organizations. Use of database management systems and user-oriented data languages.</Course_Description>
+		<Instructor_Name>Mai B</Instructor_Name>
+		<Instructor_Email>mai.b@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 3610, BCIS 3630. 2.7 UNT GPA (2.7 transfer GPA if no courses taken at UNT); a grade of C or better in each previously taken BCIS course, or consent of department. </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 4630</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Fund IT Security</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Introduction to the security systems development life cycle and its effects on application development, software engineering, traditional systems analysis and networking. Examines the various components of information privacy and security.</Course_Description>
+		<Instructor_Name>Wu Y</Instructor_Name>
+		<Instructor_Email>wu.y@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 3630. 2.7 UNT GPA (2.7 transfer GPA if no courses taken at UNT); a grade of C or better in each previously taken BCIS course, or consent of department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 4650</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Visu Prog For Bus</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Business application design and development from the perspective of visual programming technologies. Emphasis on performance characteristics and user interface design considerations.</Course_Description>
+		<Instructor_Name>Vedder R</Instructor_Name>
+		<Instructor_Email>vedder.r@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 3630. 2.7 UNT GPA (2.7 transfer GPA if no courses taken at UNT); a grade of C or better in each previously taken BCIS course, or consent of department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 4660</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Data Warehousing</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Investigates model-based approaches to the design of data warehouses. Examines their critical role in decision systems for business and industry.</Course_Description>
+		<Instructor_Name>Becker J</Instructor_Name>
+		<Instructor_Email>becker.j@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 3610; DSCI 3710 or DSCI 3870; 2.7 UNT GPA (2.7 transfer GPA if no courses taken at UNT); a grade of C or better in each previously taken BCIS course, or consent of department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 4680</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Bus Data Comm Network</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Development of an understanding of the differences between centralized, decentralized and distributed data processing systems; their relationships with the business enterprise, data communications and the parameters affecting the implementation of the system; provides background for analysis, design, selection and evaluation of hardware, software and support required for a distributed data processing environment.</Course_Description>
+		<Instructor_Name>Kappelman L</Instructor_Name>
+		<Instructor_Email>Kappelman.l@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 3630. 2.7 UNT GPA (2.7 transfer GPA if no courses taken at UNT); a grade of C or better in each previously taken BCIS course, or consent of department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 4690</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Info Tech MGMT</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Overview of the management of an organization's information assets. Emphasizes techniques and issues specific to information systems department management; the development, implementation and operation of computer-based information systems; as well as personnel, career management, assessment, legal, ethical, global and societal issues.</Course_Description>
+		<Instructor_Name>Kappelman L</Instructor_Name>
+		<Instructor_Email>Kappelman.l@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 4610. 2.7 UNT GPA (2.7 transfer GPA if no courses taken at UNT); a grade of C or better in each previously taken BCIS course, or consent of department; </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 4720</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Web Info Tech </Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Provides tools, skills, and an understanding of technology, business concepts and issues that surround the use of web-based information systems. In addition to acquiring basic skills for development of web-based information systems, the student develops an understanding of the current practices and opportunities in electronic publishing, electronic commerce, electronic distribution and electronic collaboration. The student explores several problem areas in electronic commerce such as security (authentication, privacy), encryption, safeguarding of intellectual property rights, acceptable use policies, and legal liabilities.</Course_Description>
+		<Instructor_Name>Windsor J</Instructor_Name>
+		<Instructor_Email>windsor.j@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 3630. 2.7 UNT GPA (2.7 transfer GPA if no courses taken at UNT); a grade of C or better in each previously taken BCIS course, or consent of department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 4740</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Admin Info Security </Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Investigates the major concepts and techniques used in client-server systems architecture and information security, beginning with a strategic planning process for security. Subjects include security practices, security architecture and models, continuity planning and disaster recovery planning.</Course_Description>
+		<Instructor_Name>Kim D</Instructor_Name>
+		<Instructor_Email>kim.d@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 3610. 2.7 UNT GPA</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 4800</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>COOP Education</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Supervised work in a job related to student's career objective.</Course_Description>
+		<Instructor_Name>Windsor J</Instructor_Name>
+		<Instructor_Email>windsor.j@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 3620 or BCIS 3630; 2.7 UNT GPA </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 4900</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Special Problem</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>See department advisor for details</Course_Description>
+		<Instructor_Name>Wu Y</Instructor_Name>
+		<Instructor_Email>wu.y@my.unt.edu</Instructor_Email>
+		<Course_Requirements>ECON 1100, ECON 1110, MATH 1100. BCIS 2610 or equivalent; ACCT 2010 and ACCT 2020 with a grade of C or better; MATH 1190 or equivalent; </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 5420</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Structure of PGM Langs</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Introduction to operations research for business decision making. Spreadsheet methods are used to evaluate the following: deterministic models; allocation problems, linear programming, sequencing and scheduling, and network models.</Course_Description>
+		<Instructor_Name>Wu Y</Instructor_Name>
+		<Instructor_Email>wu.y@my.unt.edu</Instructor_Email>
+		<Course_Requirements>ECON 1100, ECON 1110, MATH 1100. DSCI 2710 or consent of instructor; ACCT 2010 and ACCT 2020 with grades of C or better; MATH 1190 or equivalent.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 5520</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Info Systems Devl</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Provides a standards-based framework to structure IT-related activities and approaches for supporting and delivering IT services; to enhance the interactions of IT technical personnel with business customers and users; and to increase the quality, reliability and flexibility of IT services. Investigates the relationships of ITSM processes (e.g., ITIL, COBIT, COSO) with other business process improvement approaches (e.g., TQM, Six Sigma, Business Process Management, CMMI, SOX), frameworks and methodologies.</Course_Description>
+		<Instructor_Name>Koh C</Instructor_Name>
+		<Instructor_Email>Koh.c@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 5120 or consent of department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 5630</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Data Base Systems</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Examines technical and managerial issues associated with the design, development and deployment of security of client/server and other computer systems. Topics include security and privacy issues associated with architectures, platform connectivity and networks.</Course_Description>
+		<Instructor_Name>Mai B</Instructor_Name>
+		<Instructor_Email>mai.b@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 4630 (or equivalent) or consent of department. </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 5700</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>IT Service Management</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Provides an overview and understanding of the issues involved in the strategic management of the information assets of organizations. Examines a broad range of issues and problems associated with the management of information technology (IT) and information systems (IS) and their alignment with the strategic goals of the organizations. Focuses on the managerial rather than the technical issues and views IS from the perspective of managers at all levels.</Course_Description>
+		<Instructor_Name>Becker J</Instructor_Name>
+		<Instructor_Email>becker.j@my.unt.edu</Instructor_Email>
+		<Course_Requirements>Completion of Foundation and Technology Sequence course work and within 9 hours of graduation.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 5900</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>IT Security</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Open to graduate students who are capable of developing a problem independently. Problem chosen by the student and developed through conferences and activities under the direction of the instructor.</Course_Description>
+		<Instructor_Name>Kim D</Instructor_Name>
+		<Instructor_Email>kim.d@my.unt.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 5115</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Strat MGMT of Info Tech</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Prerequisites: Approved applications for special problems/independent research/dissertation credit must be submitted to the CoB Graduate Programs Office prior to registration.</Course_Description>
+		<Instructor_Name>Kappelman L</Instructor_Name>
+		<Instructor_Email>Kappelman.l@my.unt.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 5116</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Special Problem</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Basic descriptive and inferential statistics; includes frequency distributions, averages, dispersions, index numbers, time-series analysis, probability, theoretical distributions, sampling distribution, estimation, tests of significance, chi-square, regression and correlation, analysis of variance and sample design.</Course_Description>
+		<Instructor_Name>Kappelman L</Instructor_Name>
+		<Instructor_Email>Kappelman.l@my.unt.edu</Instructor_Email>
+		<Course_Requirements>Completion of Foundation and Technology Sequence course work and within 9 hours of graduation.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 5117</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>General Systems Theory</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>See department advisor for details</Course_Description>
+		<Instructor_Name>Jones M </Instructor_Name>
+		<Instructor_Email>jones.m@my.unt.edu</Instructor_Email>
+		<Course_Requirements>Completion of Foundation and Technology Sequence course work and within 9 hours of graduation.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 5118</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Intro Bus Comp Info Sys</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Major research project prepared by the student under the supervision of a faculty member and presented in standard thesis format. An oral defense is required of each student for successful completion of the thesis.</Course_Description>
+		<Instructor_Name>Lohr D</Instructor_Name>
+		<Instructor_Email>lohr.d@my.unt.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>DSCI 5350</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Business Statistics</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>See department advisor for details</Course_Description>
+		<Instructor_Name>Jayakumar M</Instructor_Name>
+		<Instructor_Email>jayakumar.m@my.unt.edu</Instructor_Email>
+		<Course_Requirements>DSCI 3870, BCIS 3610. 2.7 UNT GPA (2.7 transfer GPA if no courses taken at UNT); a grade of C or better in each previously taken DSCI course.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>DSCI 4510</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Modeling for BI</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Analysis of business research data that is categorical or ordinal (ranked or scaled) and is therefore not suitable for computations such as means and standard deviations. Topics include measurements of consumer preferences, market segmentation, labor or job grades, racial and sex classifications, and exempt characteristics and performance ratings. Single and multiple sample techniques are discussed.</Course_Description>
+		<Instructor_Name>Kulkarni S</Instructor_Name>
+		<Instructor_Email>Kulkarni.s@my.unt.edu</Instructor_Email>
+		<Course_Requirements>DSCI 5010 or equivalent, or consent of department. </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>DSCI 4700</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Analytics Dec Making</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>See department advisor for details</Course_Description>
+		<Instructor_Name>Dake J</Instructor_Name>
+		<Instructor_Email>dake.j@my.unt.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>DSCI 4800</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Business Decision Proc</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Emphasis on model assumptions, applying the correct statistical model and interpreting the results. Topics include simple regression, multiple regression (e.g., qualitative variable coding, model building) and experimental design (e.g., completely randomized design, randomized block design, multi-factor designs).</Course_Description>
+		<Instructor_Name>Jayakumar M</Instructor_Name>
+		<Instructor_Email>jayakumar.m@my.unt.edu</Instructor_Email>
+		<Course_Requirements>DSCI 5010 or equivalent, or consent of department. </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>DSCI 5320</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Bus Process Analytics</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>See department advisor for details</Course_Description>
+		<Instructor_Name>Dake J</Instructor_Name>
+		<Instructor_Email>dake.j@my.unt.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>DSCI 5340</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Predictive Analytics</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>See department advisor for details</Course_Description>
+		<Instructor_Name>Evangelopoulos</Instructor_Name>
+		<Instructor_Email>evangelopoulos@my.unt.edu</Instructor_Email>
+		<Course_Requirements>DSCI 5010 or consent of department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>DSCI 5956</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Data Visualization</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Current issues in the utilization of business intelligence (BI) in business, government, academia and innovation. Topics include the concepts, methodologies and tools to efficiently and effectively implement business intelligence endeavors. Emphasis is placed on current direction of BI as it is relevant to projects underway in business, government and academia across all levels of their value chains. A semester project in the area of BI relevant to a functional area of business is an important component of this course.</Course_Description>
+		<Instructor_Name>Kulkarni S</Instructor_Name>
+		<Instructor_Email>Kulkarni.s@my.unt.edu</Instructor_Email>
+		<Course_Requirements>DSCI 5010 or consent of department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>DSCI 5357</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Data Analysis</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Study of the process of decision making and the information requirements of decisions; decision support systems tool selection and DSS applications development.</Course_Description>
+		<Instructor_Name>Dake J</Instructor_Name>
+		<Instructor_Email>dake.j@my.unt.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>DSCI 5350</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Big Data Analytics</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>See department advisor for details</Course_Description>
+		<Instructor_Name>Evangelopoulos</Instructor_Name>
+		<Instructor_Email>evangelopoulos@my.unt.edu</Instructor_Email>
+		<Course_Requirements>DSCI 5010 or consent of department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BCIS 5640</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Object- Oriented Analysis</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Examines a variety of managerial issues associated with developing and implementing object-oriented system applications within business.</Course_Description>
+		<Instructor_Name>Dr. J. Wayne Spence</Instructor_Name>
+		<Instructor_Email>wayne.spense@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 5120 and BCIS 5420, or consent of department.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>BSCI 5630</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Enterprise Architecture for Information Technology Security</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Examines technical and managerial issues associated with the design, development and deployment of security of client/server and other computer systems. Topics include security and privacy issues associated with architectures, platform connectivity and networks.</Course_Description>
+		<Instructor_Name>Dr. Bradley K. Jensen</Instructor_Name>
+		<Instructor_Email>Bradley.k@my.unt.edu</Instructor_Email>
+		<Course_Requirements>BCIS 4630 (or equivalent) or consent of department. </Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>DSCI 5240</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Data Mining</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>A survey of data mining techniques and software is presented. Topics include extracting information from large databases and designing data-based decision support systems. Decision making in a case-embedded business environment is emphasized. Topics include latest advances in data mining research.</Course_Description>
+		<Instructor_Name>Evangelopoulos</Instructor_Name>
+		<Instructor_Email>evangelopoulos@my.unt.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>DSCI 5010</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Statistics</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>G</Course_Level>
+		<Course_Description>Basic descriptive and inferential statistics; includes frequency distributions, averages, dispersions, index numbers, time-series analysis, probability, theoretical distributions, sampling distribution, estimation, tests of significance, chi-square, regression and correlation, analysis of variance and sample design.</Course_Description>
+		<Instructor_Name>Evangelopoulos</Instructor_Name>
+		<Instructor_Email>evangelopoulos@my.unt.edu</Instructor_Email>
+		<Course_Requirements>None</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>MATH 1190</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Business calculus</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Differential and integral calculus with emphasis on applications to business.</Course_Description>
+		<Instructor_Name>Dr. J. Wayne Spence</Instructor_Name>
+		<Instructor_Email>wayne.spense@my.unt.edu</Instructor_Email>
+		<Course_Requirements>Two years of high school algebra and consent of department; or MATH 1100 or MATH 1180 with a grade of C or better.</Course_Requirements>
+	</Syllabus>
+	<Syllabus>
+		<syllabus_ID>MATH 1100</syllabus_ID>
+		<University_Name>UNT</University_Name>
+		<Course_Name>Algebra</Course_Name>
+		<Field/>
+		<Department>Social sciences</Department>
+		<Course_Level>UG</Course_Level>
+		<Course_Description>Designed to build technical proficiency in algebra for students who will need strong algebra skills in a higher level mathematics course. Study of polynomial, radical, rational, logarithmic and exponential functions with applications; building functions from data; systems of equations.</Course_Description>
+		<Instructor_Name>Koh C</Instructor_Name>
+		<Instructor_Email>Koh.c@my.unt.edu</Instructor_Email>
+		<Course_Requirements>Two years of high school algebra and one year of geometry, and consent of department; or a grade of C or better in MATH 1010, MATH 1581 or MATH 1681.</Course_Requirements>
+	</Syllabus>
+</Syllabi>
